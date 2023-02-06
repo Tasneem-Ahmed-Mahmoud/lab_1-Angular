@@ -1,0 +1,19 @@
+.portfolio{
+    margin-top: 200px;
+    margin-left: 250px;
+    margin-bottom: 30px;
+   
+}
+
+.item{
+    height: 300px;
+}
+
+.gray{
+    background-color: gray;
+}
+
+hr{
+    height: 10px;
+    color: aliceblue;
+}
